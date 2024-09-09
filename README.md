@@ -1,4 +1,4 @@
-# Shopping
-This is a shopping app
+# Ganesh ji
+This is a Ganesh chaturthi app
 
 Like this video:)
